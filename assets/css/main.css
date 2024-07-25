@@ -579,13 +579,13 @@ section,
   margin: 0;
   font-size: 64px;
   font-weight: 700;
-  color: black;
+  color: white;
 }
 
 .hero p {
   margin: 5px 0 0 0;
   font-size: 26px;
-  color: black;
+  color: white;
 }
 
 .hero p span {
